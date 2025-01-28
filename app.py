@@ -17,7 +17,7 @@ def download_model():
         print("Model not found. Downloading...")
         
         # URL of the file from GitHub LFS (update this with your actual link)
-        model_url = "https://github.com/colton456p/DiaBERT/raw/main/new_model/model.safetensors"
+        model_url = "https://github.com/iadaji/DiaBERT/raw/main/new_model/model.safetensors"
 
         # Download the model file
         try:
